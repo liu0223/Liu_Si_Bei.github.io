@@ -12,18 +12,17 @@ output:
 # Education
  
 
-__Columbia University, Mailman School of Public Health__  \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ *09/2019-05/2021(Expected)*
+__Columbia University, Mailman School of Public Health__  \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ *09/2019-05/2021(Expected)*
 
 Master of Science in Biostatistics (Theory and Method Track)  \ \ \ \ \ \    GPA: 3.75 
 
-__Jilin University, School of Public Health__      \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \     \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ *09/2014-06/2019* 
+__Jilin University, School of Public Health__      \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \     \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ *09/2014-06/2019* 
 
 Information Management & Information System (Medical Information Management)  
 
 Bachelor of Management & Bachelor of Preventive Medicine
 
 
-\
 
 # Skills and Courses
 
@@ -33,18 +32,18 @@ Bachelor of Management & Bachelor of Preventive Medicine
 
 
 
-***
+
 # Publication
 
 
 ￭ Pallavi Misra,**Sibei LIU**, Xiangfei Meng,
 What DNA methylation modifications and/or genetic variations interact with childhood maltreatment in the development of depression: A systematic review, Journal of Affective Disorders [link](https://pubmed.ncbi.nlm.nih.gov/30999089/)
 
-￭ Tingting Gao, Xiangfei Meng, Yueyang Hu, Zeying Qin, Hui Ren, **Sibei LIU**, The Role of School Connectedness and Maladaptive Cognitions in the Association between Stress and Internet Addiction: A Serial Mediation Model, Perspectives in Psychiatric Care [link]()
+￭ Tingting Gao et al. including **Sibei LIU**, The Role of School Connectedness and Maladaptive Cognitions in the Association between Stress and Internet Addiction: A Serial Mediation Model, Perspectives in Psychiatric Care [link](https://onlinelibrary.wiley.com/doi/full/10.1111/ppc.12417)
 
 ￭ Muzi Li,**Sibei LIU**, Xiangfei Meng, Interactions of childhood maltreatment and genetic variations in adult depression: A systematic review  (Accepted by Journal of Affective Disorders)
 
-***
+
 # Research
  
 07/2018-10/2018  
@@ -62,7 +61,7 @@ Followed the standard process of Meta-analysis:
 
 ￭ Did the heterogeneity analysis, divided and summarized quantitative and qualitative parts.
 
-
+***
 03/2018-05/2018 
 The Influencing Factor of Teenager Smoking in Liaoning Province (A Global Youth Tobacco Survey in Liaoning )                      
 Department of Epidemiology and Health Statistics at Jilin University
@@ -82,7 +81,7 @@ Responsibility:
 # Class Projects
 
 
-***
+
 # Honors & Awards
 
 05/2018 China Scholarship Council- Mitacs Summer Internship funding (More than 30000RMB ) 

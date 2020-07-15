@@ -1,4 +1,5 @@
 ---
+title: "Sibei Liu"
 output: 
   html_document:
     toc: true
@@ -7,9 +8,9 @@ output:
 \
 
 
-# Sibei Liu
+# Brief Intro
 \
-Hi 
+Hi welcome to my personal website! 
 
 # Resume 
 
@@ -17,3 +18,5 @@ More detailed me can be found in [Academic Resume](resume.html)
 
 # Contact
 
+E-mail: sl4660@cumc.columbia.edu  
+Phone: 1-646-361-2079
