@@ -82,14 +82,14 @@ Followed the standard process of systematic review:
 ## *Genetics*
 
 So far I don't have any project about it.
-I am just writing it to have fun
+I am just writing it to have fun or for future use
 
 ***
 
 ## *Machine Learning*
 
 So far I don't have any project about it.
-I am just writing it to have fun
+I am just writing it to have fun or for future use
 
 ***
 ## *Risk Factor Explortaion*
@@ -114,7 +114,7 @@ Supervisor: Dr.Lina Jin, Dr.Yan Yao
 
 # Class Projects
 
-The Class projects are team-worked assignments in several classes in Columbia. In the Statistical Computing class, the algorithms were be performed in R without using existing packages. In Data Science, the github website was built. In Biostatistical Method 1, 
+The Class projects are team-worked assignments in several classes in Columbia. 1) The algorithms were be performed in R without using existing packages. 2) a github-based website was built. 3) applied statistical methods on real data.
 
 The detailed information can be found [here](project.html)
 
