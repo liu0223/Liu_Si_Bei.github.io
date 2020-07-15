@@ -8,9 +8,8 @@ output:
 \
 
 
-# Brief Intro
 \
-Hi welcome to my personal website! 
+Hi welcome to my personal website! I am Sibei Liu, a master student from China, majoring in Biostatistics in Columbia Univeristy. 
 
 # Resume 
 
