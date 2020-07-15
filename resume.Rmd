@@ -26,10 +26,14 @@ Bachelor of Management & Bachelor of Preventive Medicine
 
 # Skills and Courses
 
-**Course**:
+**Course**: Probability, Biostatistical Methods (regression, survival analysis, longitudinal analysis), Data Science 1, Data Science for Machine Learning (Regularization, non-linear regression, Classification), Statistical Inference, Epidemiology, Advanced Statistical Computing (Monte Carlo, Optimization Algorithms, Bootstrap, MCMC), SAS (Observer)
 
 **Skills**:
+Good command of R, SPSS, SQL, Microsoft Office (Access, Excel, Word, PowerPoints)
 
+\ \ \ \ \ \ \ \ \ \ \ \ Entry level of SAS
+
+\ \ \ \ \ \ \ \ \ \ \ \ Languages: English, Mandarin 
 
 
 
@@ -37,50 +41,81 @@ Bachelor of Management & Bachelor of Preventive Medicine
 
 
 ￭ Pallavi Misra,**Sibei LIU**, Xiangfei Meng,
-What DNA methylation modifications and/or genetic variations interact with childhood maltreatment in the development of depression: A systematic review, Journal of Affective Disorders [link](https://pubmed.ncbi.nlm.nih.gov/30999089/)
-
-￭ Tingting Gao et al. including **Sibei LIU**, The Role of School Connectedness and Maladaptive Cognitions in the Association between Stress and Internet Addiction: A Serial Mediation Model, Perspectives in Psychiatric Care [link](https://onlinelibrary.wiley.com/doi/full/10.1111/ppc.12417)
+What DNA methylation modifications and/or genetic variations interact with childhood maltreatment in the development of depression: A systematic review, Journal of Affective Disorders [Link](https://pubmed.ncbi.nlm.nih.gov/30999089/)
 
 ￭ Muzi Li,**Sibei LIU**, Xiangfei Meng, Interactions of childhood maltreatment and genetic variations in adult depression: A systematic review  (Accepted by Journal of Affective Disorders)
+
+￭ Tingting Gao et al. including **Sibei LIU**, The Role of School Connectedness and Maladaptive Cognitions in the Association between Stress and Internet Addiction: A Serial Mediation Model, Perspectives in Psychiatric Care [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/ppc.12417)
 
 
 # Research
  
-07/2018-10/2018  
+## *Meta Analysis and Systematic Review*
+ 
+**Columbia University School of Public Health**
 
-Mitacs Summer Internship Program: Child Maltreatment and Genetic Variation in Adult Psychopathology: A Systematic Review                       
+Supervisor: Dr. Jin Zhezhen \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  *07/2020-Current* 
 
-Department of Psychiatry at McGill University
+\
+**Columbia University School of Dental Medicine**
 
-Supervisor: Dr Xiangfei Meng
-Responsibility:
+Supervisor: Dr. Shariff Jaffer \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  *11/2019-03/2020* 
 
-Followed the standard process of Meta-analysis: 
+￭ Produced forest plots and funnel plots in R 
+
+￭ Gave presention to dental students on 
+
+\
+**McGill University : Child Maltreatment and Genetic Variation in Adult Psychopathology: A Systematic Review**        
+Supervisor: Dr. Xiangfei Meng \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  *07/2018-10/2018* 
+
+Followed the standard process of systematic review: 
 
 ￭ Extracted available data and completed the quality evaluation for the screened paper.
 
-￭ Did the heterogeneity analysis, divided and summarized quantitative and qualitative parts.
+￭ Divided and summarized quantitative and qualitative parts.
+
+￭ Wrote the Introduction of manuscript.
 
 ***
-03/2018-05/2018 
-The Influencing Factor of Teenager Smoking in Liaoning Province (A Global Youth Tobacco Survey in Liaoning )                      
-Department of Epidemiology and Health Statistics at Jilin University
 
-Supervisor: Associate Prof. Lina JIN, Associate Prof Yan Yao 
+## *Genetics*
 
-Responsibility:
+So far I don't have any project about it.
+I am just writing it to have fun
 
-￭ Determined the innovative perspective of data analysis.
+***
 
-￭ Used the complex sampling pack in SPSS to analyze multistage stratified cluster sampling, including doing the Frequency to describe the data distribution, completing the Chi-square analysis and the logistic analysis to find risk factors of teenager smoking.
+## *Machine Learning*
 
-￭ Wrote the manuscript.
+So far I don't have any project about it.
+I am just writing it to have fun
 
+***
+## *Risk Factor Explortaion*
+
+**Columbia University School of Public Health: Risk Factors of Myelitis Encephalitis based on three hospitals**  
+Supervisor: Dr. Yifei Sun \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  *05/2020-07/2020* 
+
+￭ Outputted the descriptive analysis of potential covariates
+
+￭ Imputed the Missing data
+
+￭ Selected the important variables and did logistic regression
+
+**Jilin University: The Influencing Factor of Teenager Smoking in Liaoning Province **    \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \   *03/2018-05/2018*                 
+
+Supervisor: Dr.Lina JIN, Dr.Yan Yao 
+
+￭ Determined the innovative perspective of data analysis
+
+￭ Used the complex sampling pack in SPSS to analyze multistage stratified cluster sampling, including doing the Frequency to describe the data distribution, completing the Chi-square analysis and the logistic analysis to find risk factors of teenager smoking in SPSS
 
 
 # Class Projects
 
-
+The Class projects are team-worked assignments in several classes in Columbia. In the Statistical Computing classes, the algorithms were be performed in R without using existing packages.
+The detailed information can be found [here](project.html)
 
 # Honors & Awards
 
@@ -90,6 +125,9 @@ Responsibility:
 
 09/2016 & 09/2018 The First Scholarship in Academic Years 2015-16 and 2016-17 at Jilin University (5%)
 
+# PDF format of Resume
+
+Download [here](Resume-Sibei.pdf)
 
 
 
