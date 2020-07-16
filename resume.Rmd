@@ -56,7 +56,6 @@ Supervisor: Dr. Jin Zhezhen \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 
 
 ￭ Gave presentation on the theory of Hetergenity Test and Bias on outcome selection
 
-\
 **Columbia University School of Dental Medicine**
 
 Supervisor: Dr. Shariff Jaffer \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  *11/2019-03/2020* 
@@ -65,7 +64,6 @@ Supervisor: Dr. Shariff Jaffer \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
 
 ￭ Gave presentions to dental students on Doing Meta Analysis in R
 
-\
 **McGill University : Child Maltreatment and Genetic Variation in Adult Psychopathology: A Systematic Review**        
 Supervisor: Dr. Xiangfei Meng \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  *07/2018-10/2018* 
 
@@ -103,15 +101,13 @@ Supervisor: Dr. Yifei Sun \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 
 
 ￭ Selected the important variables and did logistic regression
 
-**Jilin University: The Influencing Factor of Teenager Smoking in Liaoning Province **    \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \   *03/2018-05/2018*                 
-
-Supervisor: Dr.Lina Jin, Dr.Yan Yao 
+**Jilin University: The Influencing Factor of Teenager Smoking in Liaoning Province **    \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \   *03/2018-05/2018*   Supervisor: Dr.Lina Jin, Dr.Yan Yao 
 
 ￭ Determined the innovative perspective of data analysis
 
 ￭ Used the complex sampling pack in SPSS to analyze multistage stratified cluster sampling, including doing the Frequency to describe the data distribution, completing the Chi-square analysis and the logistic analysis to find risk factors of teenager smoking in SPSS
 
-
+***
 # Class Projects
 
 The Class projects are team-worked assignments in several classes in Columbia. 1) The algorithms were be performed in R without using existing packages. 2) a github-based website was built. 3) applied statistical methods on real data.
