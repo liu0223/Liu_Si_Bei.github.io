@@ -29,7 +29,7 @@ Bachelor of Management & Bachelor of Preventive Medicine
 **Course**: Probability, Biostatistical Methods (regression, survival analysis, longitudinal analysis), Data Science 1, Data Science for Machine Learning (Regularization, non-linear regression, Classification), Statistical Inference, Epidemiology, Advanced Statistical Computing (Monte Carlo, Optimization Algorithms, Bootstrap, MCMC), SAS (Observer)
 
 **Skills**:
-Good command of R, SPSS, SQL ,Entry level of SAS,Microsoft Office(Access, Excel, Word, PowerPoints)
+Good command of R, SPSS, SQL , Microsoft Office(Access, Excel, Word, PowerPoints). Entry level of SAS
 
 **Languages**: English, Mandarin 
 
@@ -90,7 +90,7 @@ So far I don't have any project about it.
 I am just writing it to have fun or for future use
 
 ***
-## *Risk Factor Explortaion*
+## *Risk Factor Exploraion*
 
 **Columbia University School of Public Health: Risk Factors of Myelitis Encephalitis based on three hospitals**  
 Supervisor: Dr. Yifei Sun \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  *05/2020-07/2020* 
@@ -110,7 +110,7 @@ Supervisor: Dr. Yifei Sun \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 
 ***
 # Class Projects
 
-The Class projects are team-worked assignments in several classes in Columbia. 1) The algorithms were be performed in R without using existing packages. 2) a github-based website was built. 3) applied statistical methods on real data.
+The Class projects are team-worked assignments in several classes in Columbia, which includs 1) applying algorithms in real problems and performing them in R without using existing packages. 2) builting a github-based website 3) applying statistical methods on real data and finished the report.
 
 The detailed information can be found [here](project.html)
 
