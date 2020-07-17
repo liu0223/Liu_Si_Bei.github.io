@@ -1,0 +1,110 @@
+---
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+\
+\
+
+
+
+# Education
+ 
+
+__Columbia University, Mailman School of Public Health__  \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ *09/2019-05/2021(Expected)*
+
+Master of Science in Biostatistics (Theory and Method Track)  \ \ \ \ \ \    GPA: 3.75 
+
+__Jilin University, School of Public Health__      \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \     \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ *09/2014-06/2019* 
+
+Information Management & Information System (Medical Information Management)  
+
+Bachelor of Management & Bachelor of Preventive Medicine
+
+
+
+# Skills and Courses
+
+**Course**: Probability, Biostatistical Methods (regression, survival analysis, longitudinal analysis), Data Science 1, Data Science for Machine Learning (Regularization, non-linear regression, Classification), Statistical Inference, Epidemiology, Advanced Statistical Computing (Monte Carlo, Optimization Algorithms, Bootstrap, MCMC), SAS (Observer)
+
+**Skills**:
+Good command of R, SPSS, SQL , Microsoft Office(Access, Excel, Word, PowerPoints). Entry level of SAS
+
+**Languages**: English, Mandarin 
+
+
+
+# Publication
+
+
+￭ Pallavi Misra,**Sibei LIU**, Xiangfei Meng,
+What DNA methylation modifications and/or genetic variations interact with childhood maltreatment in the development of depression: A systematic review, Journal of Affective Disorders [Link](https://pubmed.ncbi.nlm.nih.gov/30999089/)
+
+￭ Muzi Li,**Sibei LIU**, Xiangfei Meng, Interactions of childhood maltreatment and genetic variations in adult depression: A systematic review  (Accepted by Journal of Affective Disorders)
+
+￭ Tingting Gao et al. including **Sibei LIU**, The Role of School Connectedness and Maladaptive Cognitions in the Association between Stress and Internet Addiction: A Serial Mediation Model, Perspectives in Psychiatric Care [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/ppc.12417)
+
+
+# Research
+ 
+## *Meta Analysis and Systematic Review*
+ 
+**Columbia University School of Dental Medicine**
+
+Supervisor: Dr. Shariff Jaffer \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  *11/2019-03/2020* 
+
+￭ Produced forest plots, funnel plots, net-worked plots in R 
+
+￭ Gave presentions to dental students on Doing Meta Analysis in R
+
+**McGill University : Child Maltreatment and Genetic Variation in Adult Psychopathology: A Systematic Review**        
+Supervisor: Dr. Xiangfei Meng \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  *07/2018-10/2018* 
+
+Followed the standard process of systematic review: 
+
+￭ Extracted available data and completed the quality evaluation for the screened paper.
+
+￭ Divided and summarized quantitative and qualitative parts.
+
+￭ Wrote the Introduction of manuscript.
+
+***
+## *Risk Factor Exploraion*
+
+**Columbia University School of Public Health: Risk Factors of Myelitis Encephalitis based on three hospitals**  
+Supervisor: Dr. Yifei Sun \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  *05/2020-07/2020* 
+
+￭ Outputted the descriptive analysis of potential covariates
+
+￭ Imputed the Missing data
+
+￭ Selected the important variables and did logistic regression
+
+**Jilin University: The Influencing Factor of Teenager Smoking in Liaoning Province **    \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \   *03/2018-05/2018*   Supervisor: Dr.Lina Jin, Dr.Yan Yao 
+
+￭ Determined the innovative perspective of data analysis
+
+￭ Used the complex sampling pack in SPSS to analyze multistage stratified cluster sampling, including doing the Frequency to describe the data distribution, completing the Chi-square analysis and the logistic analysis to find risk factors of teenager smoking in SPSS
+
+***
+# Class Projects
+
+The Class projects are team-worked assignments in several classes in Columbia, which includs 1) applying algorithms in real problems and performing them in R without using existing packages. 2) builting a github-based website 3) applying statistical methods on real data and finished the report.
+
+The detailed information can be found [here](project.html)
+
+# Honors & Awards
+
+05/2018 China Scholarship Council- Mitacs Summer Internship funding (35000RMB ) 
+
+09/2017 China National Scholarship in Academic Year 2016-17 awarded by Ministry of Education (0.2%)
+
+09/2016 & 09/2018 The First Scholarship in Academic Years 2015-16 and 2016-17 at Jilin University (5%)
+
+# PDF format of Resume
+
+Download [here](Resume-Sibei.pdf)
+
+
+
