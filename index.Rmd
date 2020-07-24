@@ -7,6 +7,9 @@ output:
 ---
 \
 
+<center>
+<img src="./sibei.png" style="width:50%" class="center">
+</center>
 
 \
 Hi welcome to my personal website! I am Sibei Liu, a master student from China, majoring in Biostatistics in Columbia Univeristy. 
