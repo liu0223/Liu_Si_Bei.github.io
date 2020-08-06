@@ -49,14 +49,17 @@ What DNA methylation modifications and/or genetic variations interact with child
 # Research
  
 ## *Meta Analysis and Systematic Review*
+
  
 **Columbia University School of Dental Medicine**
 
 Supervisor: Dr. Shariff Jaffer \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  *11/2019-03/2020* 
 
-￭ Produced forest plots, funnel plots, net-worked plots in R 
+￭ Used  random effects model to find the pooled mean differences or ORs
 
-￭ Gave presentions to dental students on Doing Meta Analysis in R
+￭ Produced forest plots funnel plots, net-worked plots in R 
+
+￭ Gave presentations to dental students on Doing Meta Analysis in R
 
 **McGill University : Child Maltreatment and Genetic Variation in Adult Psychopathology: A Systematic Review**        
 Supervisor: Dr. Xiangfei Meng \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  *07/2018-10/2018* 
