@@ -29,7 +29,7 @@ Bachelor of Management & Bachelor of Preventive Medicine
 **Course**: Probability, Biostatistical Methods (regression, survival analysis, longitudinal analysis), Data Science 1, Data Science for Machine Learning (Regularization, non-linear regression, Classification), Statistical Inference, Epidemiology, Advanced Statistical Computing (Monte Carlo, Optimization Algorithms, Bootstrap, MCMC), SAS (Observer)
 
 **Skills**:
-Good command of R, SPSS, SQL , Microsoft Office(Access, Excel, Word, PowerPoints). Entry level of SAS
+Good command of R, SPSS, SQL , Microsoft Office(Access, Excel, Word, PowerPoints), SAS(Base Certificate)
 
 **Languages**: English, Mandarin 
 
@@ -47,12 +47,22 @@ What DNA methylation modifications and/or genetic variations interact with child
 
 
 # Research
- 
-## *Meta Analysis and Systematic Review*
 
- 
-**Columbia University School of Dental Medicine**
+## *Machine Learning:*
 
+**New York University: Classification on Autism status using structural MRI measures **  \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 
+Supervisor: Dr. Park Hyung\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  *07/2020-Current* 
+
+￭ Cleaned dataset and built a logistic-Lasso model to select predictors 
+
+￭ Used selected variables to build tree model and applied ensemble methods (Random Forest and Adaboost) to compare sensitivity and specificity
+
+
+***
+ 
+## *Meta Analysis and Systematic Review:*
+
+**Columbia University School of Dental Medicine: Meta analysis on several topics** \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 
 Supervisor: Dr. Shariff Jaffer \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  *11/2019-03/2020* 
 
 ￭ Used  random effects model to find the pooled mean differences or ORs
@@ -66,14 +76,14 @@ Supervisor: Dr. Xiangfei Meng \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 
 
 Followed the standard process of systematic review: 
 
-￭ Extracted available data and completed the quality evaluation for the screened paper.
+￭ Extracted available data and completed the quality evaluation for the screened paper
 
-￭ Divided and summarized quantitative and qualitative parts.
+￭ Divided and summarized quantitative and qualitative parts
 
-￭ Wrote the Introduction of manuscript.
+￭ Wrote the Introduction of manuscript, which has been published
 
 ***
-## *Risk Factor Exploraion*
+## *Risk Factor Exploraion:*
 
 **Columbia University School of Public Health: Risk Factors of Myelitis Encephalitis based on three hospitals**  
 Supervisor: Dr. Yifei Sun \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  *05/2020-07/2020* 
@@ -85,7 +95,6 @@ Supervisor: Dr. Yifei Sun \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
 ￭ Selected the important variables and did logistic regression
 
 **Jilin University: The Influencing Factor of Teenager Smoking in Liaoning Province **   
-
 Supervisor: Dr.Lina Jin, Dr.Yan Yao\ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \    *03/2018-05/2018*  
 
 ￭ Determined the innovative perspective of data analysis
@@ -109,7 +118,8 @@ The detailed information can be found [here](project.html)
 
 # PDF format of Resume
 
-Download [here](Resume-Sibei Liu.pdf)
+Download [here](Resume0826-Sibei Liu.pdf)
+
 
 
 

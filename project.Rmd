@@ -11,7 +11,7 @@ output:
 <script src="https://kit.fontawesome.com/6e8b08f469.js" crossorigin="anonymous"></script>
 
 
-<h2><b>Projects</b></h2>
+<h2><b>Class Projects</b></h2>
 
 <table>
 <col width="20%">
