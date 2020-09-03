@@ -67,7 +67,7 @@ Supervisor: Dr. Shariff Jaffer \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
 
 ￭ Used  random effects model to find the pooled effect results
 
-￭ Produced forest plots funnel plots, net-worked plots in R 
+￭ Examined between-study heterogeneity 
 
 ￭ Gave presentations to dental students on Doing Meta Analysis in R
 
