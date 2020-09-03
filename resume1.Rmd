@@ -90,9 +90,10 @@ Supervisor: Dr. Yifei Sun \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
 
 ￭ Outputted the descriptive tables of social and clinical covariates
 
-￭ Imputed the missing data using  and did logistic regressions to explore risk predictors
+￭ Imputed the missing data using multiple imputation by chained equations and did logistic regressions to explore risk predictors
 
 ￭ Wrote the Statistical Method part manuscript                                                  
+                                                 
 
 
 **Jilin University: The Influencing Factor of Teenager Smoking in Liaoning Province **   
