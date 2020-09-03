@@ -14,7 +14,6 @@ output:
 \
 Hi welcome to my personal website! I am Sibei Liu, a master student from China, majoring in Biostatistics in Columbia Univeristy. 
 
-Personal motto: Don't be lost in gains and loss
 
 # Resume 
 

@@ -29,7 +29,7 @@ Bachelor of Management & Bachelor of Preventive Medicine
 **Course**: Probability, Biostatistical Methods (regression, survival analysis, longitudinal analysis), Data Science 1, Data Science for Machine Learning (Regularization, non-linear regression, Classification), Statistical Inference, Epidemiology, Advanced Statistical Computing (Monte Carlo, Optimization Algorithms, Bootstrap, MCMC), SAS (Observer)
 
 **Skills**:
-Good command of R, SPSS, SQL , Microsoft Office(Access, Excel, Word, PowerPoints), SAS(Base Certificate)
+Good command of R, SPSS, SQL , Microsoft Office(Access, Excel, Word, PowerPoints), SAS
 
 **Languages**: English, Mandarin 
 
@@ -50,7 +50,7 @@ What DNA methylation modifications and/or genetic variations interact with child
 
 ## *Machine Learning:*
 
-**New York University: Classification on Autism status using structural MRI measures **  \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 
+**New York University: Prediction on Autism status using structural MRI measures **  \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 
 Supervisor: Dr. Park Hyung\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  *07/2020-Current* 
 
 ￭ Cleaned dataset and built a logistic-Lasso model to select predictors 
@@ -65,7 +65,7 @@ Supervisor: Dr. Park Hyung\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 
 **Columbia University School of Dental Medicine: Meta analysis on several topics** \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 
 Supervisor: Dr. Shariff Jaffer \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  *11/2019-03/2020* 
 
-￭ Used  random effects model to find the pooled mean differences or ORs
+￭ Used  random effects model to find the pooled effect results
 
 ￭ Produced forest plots funnel plots, net-worked plots in R 
 
@@ -88,11 +88,12 @@ Followed the standard process of systematic review:
 **Columbia University School of Public Health: Risk Factors of Myelitis Encephalitis based on three hospitals**  
 Supervisor: Dr. Yifei Sun \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  *05/2020-07/2020* 
 
-￭ Outputted the descriptive analysis of potential covariates
+￭ Outputted the descriptive tables of social and clinical covariates
 
-￭ Imputed the Missing data
+￭ Imputed the missing data using  and did logistic regressions to explore risk predictors
 
-￭ Selected the important variables and did logistic regression
+￭ Wrote the Statistical Method part manuscript                                                  
+
 
 **Jilin University: The Influencing Factor of Teenager Smoking in Liaoning Province **   
 Supervisor: Dr.Lina Jin, Dr.Yan Yao\ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \    *03/2018-05/2018*  
