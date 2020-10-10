@@ -26,7 +26,7 @@ Bachelor of Management & Bachelor of Preventive Medicine
 
 # Skills and Courses
 
-**Course**: Probability, Biostatistical Methods (regression, survival analysis, longitudinal analysis), Data Science 1, Data Science for Machine Learning (Regularization, non-linear regression, Classification), Statistical Inference, Epidemiology, Advanced Statistical Computing (Monte Carlo, Optimization Algorithms, Bootstrap, MCMC), SAS (Observer)
+**Course**: Probability, Biostatistical Methods (regression, survival analysis, longitudinal analysis), Data Science 1, Data Science for Machine Learning (Regularization, non-linear regression, Classification), Statistical Inference, Epidemiology, Advanced Statistical Computing (Monte Carlo, Optimization Algorithms, Bootstrap, MCMC), SAS,Data Mining(ongoing), Clinical Trail Methodology(ongoing), Statistical Genetics Models(ongoing)
 
 **Skills**:
 Good command of R, SPSS, SQL , Microsoft Office(Access, Excel, Word, PowerPoints), SAS
