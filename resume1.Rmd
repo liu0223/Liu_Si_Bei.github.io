@@ -29,7 +29,7 @@ Bachelor of Management & Bachelor of Preventive Medicine
 **Course**: Probability, Biostatistical Methods (regression, survival analysis, longitudinal analysis), Data Science 1, Data Science for Machine Learning (Regularization, non-linear regression, Classification), Statistical Inference, Epidemiology, Advanced Statistical Computing (Monte Carlo, Optimization Algorithms, Bootstrap, MCMC), SAS,Data Mining(ongoing), Clinical Trail Methodology(ongoing), Statistical Genetics Models(ongoing)
 
 **Skills**:
-Good command of R, SPSS, SQL , Microsoft Office(Access, Excel, Word, PowerPoints), SAS
+Good command of R, SPSS, SQL, SAS
 
 **Languages**: English, Mandarin 
 
@@ -53,23 +53,27 @@ What DNA methylation modifications and/or genetic variations interact with child
 **New York University: Prediction on Autism status using structural MRI measures **  \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
 Supervisor: Dr. Park Hyung\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  *07/2020-Current* 
 
-￭ Cleaned dataset and built a logistic-Lasso model to select predictors 
+￭  Cleaned dataset and built a logistic-Lasso model to select 68 features, used selected variables to build tree model and applied Adaboost
 
-￭ Used selected variables to build tree model and applied ensemble methods (Random Forest and Adaboost) to compare sensitivity and specificity
+￭ Did PCA on all features to account for correlation structure in the brain regions and built SVM and tree based on PCs  
 
+￭ Compare sensitivity and specificity between above models
 
 ***
  
 ## *Meta Analysis and Systematic Review:*
 
 **Columbia University School of Dental Medicine: Meta analysis on several topics** \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 
-Supervisor: Dr. Shariff Jaffer \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  *11/2019-03/2020* 
+Supervisor: Prof. Jinzhezhen \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  *07/2020-current* 
 
-￭ Used  random effects model to find the pooled effect results
+￭ Used random effects model to find the pooled effect measures,  examined between-study heterogeneity,  produced forest plots in R(no package used)
 
-￭ Examined between-study heterogeneity 
+￭ Used Leave-one-out cross validation and calculated validate statistics to reproduce a publication 
 
-￭ Gave presentations to dental students on Doing Meta Analysis in R
+￭ Checked the Publication bias and drew funnel plot  (no package used) 
+
+￭ Gave presentations to lab members on each above topic
+
 
 **McGill University : Child Maltreatment and Genetic Variation in Adult Psychopathology: A Systematic Review**        
 Supervisor: Dr. Xiangfei Meng \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  *07/2018-10/2018* 
