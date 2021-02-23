@@ -11,7 +11,7 @@
 
 
 
-<title>Sibei Liu</title>
+<title>project.utf8</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -390,27 +390,171 @@ div.tocify {
 
 
 
-<h1 class="title toc-ignore">Sibei Liu</h1>
 
 </div>
 
 
 <p><br />
+<br />
 </p>
-<center>
-<img src="sibei.png" style="width:50%" class="center">
-</center>
-<p><br />
-Hi welcome to my personal website! I am Sibei Liu, a master student from China, majoring in Biostatistics in Columbia Univeristy.</p>
-<div id="resume" class="section level1">
-<h1>Resume</h1>
-<p>More detailed me can be found in <a href="resume1.html">Academic Resume</a></p>
-</div>
-<div id="contact" class="section level1">
-<h1>Contact</h1>
-<p>E-mail: <a href="mailto:sl4660@cumc.columbia.edu" class="email">sl4660@cumc.columbia.edu</a><br />
-Phone: 1-646-361-2079</p>
-</div>
+<link rel="stylesheet" href="style.css">
+<script src="https://kit.fontawesome.com/6e8b08f469.js" crossorigin="anonymous"></script>
+<h2>
+<b>Class Projects</b>
+</h2>
+<table>
+<col width="20%">
+<col width="30%">
+<col width="50%">
+<tr style="border-top:1pt solid black;">
+<th rowspan="3">
+<img src="files/project4.png" style="width:800%; float:left" class="center image-square"></a>
+</th>
+<td style="vertical-align: bottom">
+<font color="8B8A8A">05/2020</font>
+</td>
+<td style="text-align:right; vertical-align:bottom">
+<font color="8B8A8A">Statistical Computing Class</font>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="height:20px; vertical-align:middle">
+<h3>
+<b>A Bayesian model of hurrican trajectories</b>
+</h3>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<ul>
+<li><p><a href="./files/report4.pdf"><i style="font-size:24px" class="fa"></i></a></p>
+<ul>
+<li><p>Implemented coordinatewise Metropolis–Hastings Sampling algorithm and sampled from the posterior distribution to get stable Markov Chain (No package used).</p></li>
+<li><p>Estimated parameters and the numerical standard error and constructed the 95% CI base the results of Markov Chain.</p></li>
+<li>Used the estimated parameters to predict other hurricane speed.
+</td></li>
+</ul></li>
+</ul>
+</tr>
+<tr style="border-top:1pt solid black;">
+<th rowspan="3">
+<img src="files/project3.png" style="width:800%; float:left" class="center image-square"></a>
+</th>
+<td style="vertical-align: bottom">
+<font color="8B8A8A">04/2020</font>
+</td>
+<td style="text-align:right; vertical-align:bottom">
+<font color="8B8A8A">Statistical Computing Class</font>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="height:20px; vertical-align:middle">
+<h3>
+<b>Daily COVID-19 Cases Prediction model Across Nations</b>
+</h3>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<ul>
+<li><p><a href="./files/report3.pdf"><i style="font-size:24px" class="fa"></i></a></p>
+<ul>
+<li><p>Trained logistic curve model to fit the COVID-19 cases data</p></li>
+<li><p>Estimated the coefficients parameters of logistic curve model by using the Adam algorithm (No package used) and visualized data</p></li>
+<li>Used Mixed Gaussian Model performed by EM algorithm to cluster the estimated parameters of each nation
+</td></li>
+</ul></li>
+</ul>
+</tr>
+<tr style="border-top:1pt solid black;">
+<th rowspan="3">
+<img src="files/projec2_2.JPG" style="width:1000%; float:left" class="center image-square"></a>
+</th>
+<td style="vertical-align: bottom">
+<font color="8B8A8A">03/2020</font>
+</td>
+<td style="text-align:right; vertical-align:bottom">
+<font color="8B8A8A">Statistical Computing Class</font>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="height:20px; vertical-align:middle">
+<h3>
+<b> Optimization on Breast Cancer Regression</b>
+</h3>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<ul>
+<li><p><a href="./files/report1.pdf"><i style="font-size:24px" class="fa"></i></a></p>
+<ul>
+<li><p>Use Newton-Raphson to estimate of the coefficients logistic regression model (No package used)</p></li>
+<li><p>Built a logistic-Lasso model to select features and used Path-wise Coordinate-wise optimization to find a path of solutions with a sequence of lambdas (No package used)</p></li>
+<li>Used Cross-validation to select the best lambda with highest AUC
+</td></li>
+</ul></li>
+</ul>
+</tr>
+<tr style="border-top:1pt solid black;">
+<th rowspan="3">
+<img src="files/project1.png" style="width:800%; float:left" class="center image-square"></a>
+</th>
+<td style="vertical-align: bottom">
+<font color="8B8A8A">02/2020</font>
+</td>
+<td style="text-align:right; vertical-align:bottom">
+<font color="8B8A8A">Statistical Computing Class</font>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="height:20px; vertical-align:middle">
+<h3>
+<b>Simulation study to evaluate the impact of mis-specifying the baseline hazard</b>
+</h3>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<ul>
+<li><p><a href="./files/report2.pdf"><i style="font-size:24px" class="fa"></i></a></p>
+<ul>
+<li><p>Used Monte Carlo algorithm to generate 3 sets of survival data with fixed true parameters which follow Exponential proportional hazard model, Weibull proportional hazard model and Cox proportional hazard model respectively.</p></li>
+<li><p>Fitted three models under each set of data and simulated each senario for 10000 time</p></li>
+<li>A set of <span class="math inline">\(\beta_s\)</span> were extracted under each senario to calculate the mean and 95% CI and did the comparison with true parameter
+</td></li>
+</ul></li>
+</ul>
+</tr>
+<tr style="border-top:1pt solid black;">
+<th rowspan="3">
+<img src="files/suicide.JPG" style="width:300%; float:left" class="center image-square"></a>
+</th>
+<td style="vertical-align: bottom">
+<font color="8B8A8A">11/2019-12/2019</font>
+</td>
+<td style="text-align:right; vertical-align:bottom">
+<font color="8B8A8A">Data Science 1 Class</font>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="height:20px; vertical-align:middle">
+<h3>
+<b>The influencing factors of U.S. Suicide Rate</b>
+</h3>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<ul>
+<li><p><a href="https://ys3298.github.io/life_saver.github.io/index.html"><i class="fa fa-internet-explorer" style="font-size:24px"></i></a></p>
+<ul>
+<li><p>Extracted data from 11 website, produced world suicide graphics in R</p></li>
+<li>Performed multiple linear regression and model diagnosis to find the influencing factors of suicide
+</td>
+</tr></li>
+</ul></li>
+</ul>
 
 
 
