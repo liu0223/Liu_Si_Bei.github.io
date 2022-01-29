@@ -10,11 +10,14 @@ output:
 
 
 # Education
- 
 
-__Columbia University, Mailman School of Public Health__  \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ *09/2019-05/2021(Expected)*
+__University of Miami,  Division Public Health__  \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ *09/2021-05/2026(Expected)* 
 
-Master of Science in Biostatistics (Theory and Method Track)  \ \ \ \ \ \    GPA: 3.75 
+Ph.D in Biostatistics   \ \ \ \ \ \ \ \ \ \ \ \ \   GPA: 4 
+
+__Columbia University, Mailman School of Public Health__  \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ *09/2019-05/2021*
+
+Master of Science in Biostatistics (Theory and Method Track)  \ \ \ \ \ \    GPA: 3.88 
 
 __Jilin University, School of Public Health__      \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \     \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ *09/2014-06/2019* 
 
@@ -26,7 +29,7 @@ Bachelor of Management & Bachelor of Preventive Medicine
 
 # Skills and Courses
 
-**Course**: Probability, Biostatistical Methods (regression, survival analysis, longitudinal analysis), Data Science 1, Data Science for Machine Learning (Regularization, non-linear regression, Classification), Statistical Inference, Epidemiology, Advanced Statistical Computing (Monte Carlo, Optimization Algorithms, Bootstrap, MCMC), SAS,Data Mining(ongoing), Clinical Trail Methodology(ongoing), Statistical Genetics Models(ongoing)
+**Course**: Probability, Biostatistical Methods (regression, survival analysis, longitudinal analysis), Data Science 1, Data Science for Machine Learning (Regularization, non-linear regression, Classification), Statistical Inference, Epidemiology, Advanced Statistical Computing (Monte Carlo, Optimization Algorithms, Bootstrap, MCMC), SAS,Data Mining, Clinical Trial Methodology, Statistical Genetics Models
 
 **Skills**:
 Good command of R, SPSS, SQL, SAS
@@ -41,7 +44,7 @@ Good command of R, SPSS, SQL, SAS
 ￭ Pallavi Misra,**Sibei LIU**, Xiangfei Meng,
 What DNA methylation modifications and/or genetic variations interact with childhood maltreatment in the development of depression: A systematic review, Journal of Affective Disorders [Link](https://pubmed.ncbi.nlm.nih.gov/30999089/)
 
-￭ Muzi Li,**Sibei LIU**, Xiangfei Meng, Interactions of childhood maltreatment and genetic variations in adult depression: A systematic review, Journal of Affective Disorders [Link](https://www.sciencedirect.com/science/article/pii/S0165032720324526)
+￭ Muzi Li,**Sibei LIU (co-first author)**, Xiangfei Meng, Interactions of childhood maltreatment and genetic variations in adult depression: A systematic review, Journal of Affective Disorders [Link](https://www.sciencedirect.com/science/article/pii/S0165032720324526)
 
 ￭ Tingting Gao et al. including **Sibei LIU**, The Role of School Connectedness and Maladaptive Cognitions in the Association between Stress and Internet Addiction: A Serial Mediation Model, Perspectives in Psychiatric Care [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/ppc.12417)
 
@@ -112,9 +115,11 @@ Supervisor: Dr.Lina Jin, Dr.Yan Yao\ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 
 
 The Class projects are team-worked assignments with instructions in several classes in Columbia, which includs 1) applying algorithms in real problems and performing them in R without using existing packages. 2) builting a github-based website 3) applying statistical methods on real data and finished the report.
 
-The detailed information can be found [here]
+The detailed information can be found [here](project.html)
 
 # Honors & Awards
+
+04/2021 HongKong PhD Fellowship Scheme awarded by Hongkong Research Grants Council (Declined)
 
 05/2018 China Scholarship Council- Mitacs Summer Internship funding (35000RMB ) 
 
