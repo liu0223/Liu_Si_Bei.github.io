@@ -15,10 +15,10 @@ navbar:
         href: dashboard.html
       - text: "Shiny"
         href: https://sibeiliu.shinyapps.io/tryshiny/
-    - icon: fa-envelope fa-lg
-      href: mailto:<sxl4188@miami.edu>
     - icon: fa-github fa-lg
       href: https://github.com/Sibeiliu
+    - icon: fa-envelope fa-lg
+      href: mailto:<sxl4188@miami.edu>
 output:
   html_document:
     theme: cerulean
