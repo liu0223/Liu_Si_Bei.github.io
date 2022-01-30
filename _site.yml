@@ -14,7 +14,7 @@ navbar:
       - text: "Dashboard"
         href: dashboard.html
       - text: "Shiny"
-        href: resume1.html
+        href: https://sibeiliu.shinyapps.io/tryshiny/
     - icon: fa-envelope fa-lg
       href: mailto:<sxl4188@miami.edu>
     - icon: fa-github fa-lg
