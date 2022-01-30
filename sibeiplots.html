@@ -9,9 +9,10 @@
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
+<meta name="author" content="Sibei Liu" />
 
 
-<title>project.utf8</title>
+<title>Sibei’s plots</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -19,9 +20,6 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
-<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
-<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
-<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -264,69 +262,6 @@ $(document).ready(function () {
 
 
 
-<style type="text/css">
-
-#TOC {
-  margin: 25px 0px 20px 0px;
-}
-@media (max-width: 768px) {
-#TOC {
-  position: relative;
-  width: 100%;
-}
-}
-
-@media print {
-.toc-content {
-  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
-  float: right;
-}
-}
-
-.toc-content {
-  padding-left: 30px;
-  padding-right: 40px;
-}
-
-div.main-container {
-  max-width: 1200px;
-}
-
-div.tocify {
-  width: 20%;
-  max-width: 260px;
-  max-height: 85%;
-}
-
-@media (min-width: 768px) and (max-width: 991px) {
-  div.tocify {
-    width: 25%;
-  }
-}
-
-@media (max-width: 767px) {
-  div.tocify {
-    width: 100%;
-    max-width: none;
-  }
-}
-
-.tocify ul, .tocify li {
-  line-height: 20px;
-}
-
-.tocify-subheader .tocify-item {
-  font-size: 0.90em;
-}
-
-.tocify .list-group-item {
-  border-radius: 0px;
-}
-
-
-</style>
-
-
 
 </head>
 
@@ -334,16 +269,6 @@ div.tocify {
 
 
 <div class="container-fluid main-container">
-
-
-<!-- setup 3col/9col grid for toc_float and main content  -->
-<div class="row-fluid">
-<div class="col-xs-12 col-sm-4 col-md-3">
-<div id="TOC" class="tocify">
-</div>
-</div>
-
-<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -408,147 +333,17 @@ div.tocify {
 
 
 
+<h1 class="title toc-ignore">Sibei’s plots</h1>
+<h4 class="author">Sibei Liu</h4>
+<h4 class="date">1/29/2022</h4>
 
 </div>
 
 
-<p><br />
-<br />
-</p>
-<link rel="stylesheet" href="style.css">
-<script src="https://kit.fontawesome.com/6e8b08f469.js" crossorigin="anonymous"></script>
-<h2>
-<b>Class Projects</b>
-</h2>
-<table>
-<col width="20%">
-<col width="30%">
-<col width="50%">
-<tr style="border-top:1pt solid black;">
-<th rowspan="3">
-<img src="files/project4.png" style="width:800%; float:left" class="center image-square"></a>
-</th>
-<td style="vertical-align: bottom">
-<font color="8B8A8A">05/2020</font>
-</td>
-<td style="text-align:right; vertical-align:bottom">
-<font color="8B8A8A">Statistical Computing Class</font>
-</td>
-</tr>
-<tr>
-<td colspan="2" style="height:20px; vertical-align:middle">
-<h3>
-<b>A Bayesian model of hurrican trajectories</b>
-</h3>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<ul>
-<li><p><a href="./files/report4.pdf"><i style="font-size:24px" class="fa"></i></a></p>
-<ul>
-<li><p>Implemented coordinatewise Metropolis–Hastings Sampling algorithm and sampled from the posterior distribution to get stable Markov Chain (No package used).</p></li>
-<li><p>Estimated parameters and the numerical standard error and constructed the 95% CI base the results of Markov Chain.</p></li>
-<li>Used the estimated parameters to predict other hurricane speed.
-</td></li>
-</ul></li>
-</ul>
-</tr>
-<tr style="border-top:1pt solid black;">
-<th rowspan="3">
-<img src="files/project3.png" style="width:800%; float:left" class="center image-square"></a>
-</th>
-<td style="vertical-align: bottom">
-<font color="8B8A8A">04/2020</font>
-</td>
-<td style="text-align:right; vertical-align:bottom">
-<font color="8B8A8A">Statistical Computing Class</font>
-</td>
-</tr>
-<tr>
-<td colspan="2" style="height:20px; vertical-align:middle">
-<h3>
-<b>Daily COVID-19 Cases Prediction model Across Nations</b>
-</h3>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<ul>
-<li><p><a href="./files/report3.pdf"><i style="font-size:24px" class="fa"></i></a></p>
-<ul>
-<li><p>Trained logistic curve model to fit the COVID-19 cases data</p></li>
-<li><p>Estimated the coefficients parameters of logistic curve model by using the Adam algorithm (No package used) and visualized data</p></li>
-<li>Used Mixed Gaussian Model performed by EM algorithm to cluster the estimated parameters of each nation
-</td></li>
-</ul></li>
-</ul>
-</tr>
-<tr style="border-top:1pt solid black;">
-<th rowspan="3">
-<img src="files/projec2_2.JPG" style="width:1000%; float:left" class="center image-square"></a>
-</th>
-<td style="vertical-align: bottom">
-<font color="8B8A8A">03/2020</font>
-</td>
-<td style="text-align:right; vertical-align:bottom">
-<font color="8B8A8A">Statistical Computing Class</font>
-</td>
-</tr>
-<tr>
-<td colspan="2" style="height:20px; vertical-align:middle">
-<h3>
-<b> Optimization on Breast Cancer Regression</b>
-</h3>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<ul>
-<li><p><a href="./files/report1.pdf"><i style="font-size:24px" class="fa"></i></a></p>
-<ul>
-<li><p>Use Newton-Raphson to estimate of the coefficients logistic regression model (No package used)</p></li>
-<li><p>Built a logistic-Lasso model to select features and used Path-wise Coordinate-wise optimization to find a path of solutions with a sequence of lambdas (No package used)</p></li>
-<li>Used Cross-validation to select the best lambda with highest AUC
-</td></li>
-</ul></li>
-</ul>
-</tr>
-<tr style="border-top:1pt solid black;">
-<th rowspan="3">
-<img src="files/project1.png" style="width:800%; float:left" class="center image-square"></a>
-</th>
-<td style="vertical-align: bottom">
-<font color="8B8A8A">02/2020</font>
-</td>
-<td style="text-align:right; vertical-align:bottom">
-<font color="8B8A8A">Statistical Computing Class</font>
-</td>
-</tr>
-<tr>
-<td colspan="2" style="height:20px; vertical-align:middle">
-<h3>
-<b>Simulation study to evaluate the impact of mis-specifying the baseline hazard</b>
-</h3>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<ul>
-<li><p><a href="./files/report2.pdf"><i style="font-size:24px" class="fa"></i></a></p>
-<ul>
-<li><p>Used Monte Carlo algorithm to generate 3 sets of survival data with fixed true parameters which follow Exponential proportional hazard model, Weibull proportional hazard model and Cox proportional hazard model respectively.</p></li>
-<li><p>Fitted three models under each set of data and simulated each senario for 10000 time</p></li>
-<li>A set of <span class="math inline">\(\beta_s\)</span> were extracted under each senario to calculate the mean and 95% CI and did the comparison with true parameter
-</td></li>
-</ul></li>
-</ul>
-</tr>
 
 
 
-</div>
-</div>
+
 
 </div>
 
@@ -581,32 +376,6 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
-<script>
-$(document).ready(function ()  {
-
-    // move toc-ignore selectors from section div to header
-    $('div.section.toc-ignore')
-        .removeClass('toc-ignore')
-        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
-
-    // establish options
-    var options = {
-      selectors: "h1,h2,h3",
-      theme: "bootstrap3",
-      context: '.toc-content',
-      hashGenerator: function (text) {
-        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
-      },
-      ignoreSelector: ".toc-ignore",
-      scrollTo: 0
-    };
-    options.showAndHide = true;
-    options.smoothScroll = true;
-
-    // tocify
-    var toc = $("#TOC").tocify(options).data("toc-tocify");
-});
-</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
