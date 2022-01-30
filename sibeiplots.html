@@ -9,10 +9,9 @@
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
-<meta name="author" content="Sibei Liu" />
 
 
-<title>Sibei’s plots</title>
+<title>Sibei’s Plots</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -20,7 +19,11 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
+<script src="site_libs/navigation-1.1/codefolding.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/anchor-sections-1.0/anchor-sections.css" rel="stylesheet" />
@@ -259,7 +262,73 @@ $(document).ready(function () {
 </style>
 
 <!-- code folding -->
+<style type="text/css">
+.code-folding-btn { margin-bottom: 4px; }
+</style>
 
+
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
 
 
 
@@ -269,6 +338,16 @@ $(document).ready(function () {
 
 
 <div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -294,18 +373,6 @@ $(document).ready(function () {
 <li>
   <a href="project.html">Class Projects</a>
 </li>
-<li>
-  <a href="mailto:&lt;sl4660@cumc.columbia.edu&gt;">
-    <span class="fa fa-envelope fa-lg"></span>
-     
-  </a>
-</li>
-<li>
-  <a href="https://github.com/Sibeiliu">
-    <span class="fa fa-github fa-lg"></span>
-     
-  </a>
-</li>
 <li class="dropdown">
   <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
     Visualization
@@ -324,6 +391,18 @@ $(document).ready(function () {
     </li>
   </ul>
 </li>
+<li>
+  <a href="mailto:&lt;sxl4188@miami.edu&gt;">
+    <span class="fa fa-envelope fa-lg"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://github.com/Sibeiliu">
+    <span class="fa fa-github fa-lg"></span>
+     
+  </a>
+</li>
       </ul>
     </div><!--/.nav-collapse -->
   </div><!--/.container -->
@@ -331,19 +410,75 @@ $(document).ready(function () {
 
 <div class="fluid-row" id="header">
 
-
-
-<h1 class="title toc-ignore">Sibei’s plots</h1>
-<h4 class="author">Sibei Liu</h4>
-<h4 class="date">1/29/2022</h4>
-
+<div class="btn-group pull-right">
+<button type="button" class="btn btn-default btn-xs dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span>Code</span> <span class="caret"></span></button>
+<ul class="dropdown-menu" style="min-width: 50px;">
+<li><a id="rmd-show-all-code" href="#">Show All Code</a></li>
+<li><a id="rmd-hide-all-code" href="#">Hide All Code</a></li>
+</ul>
 </div>
 
 
 
+<h1 class="title toc-ignore">Sibei’s Plots</h1>
+
+</div>
+
+
+<div id="lda-data-with-different-event-symbols" class="section level1">
+<h1>LDA data with different event symbols</h1>
+<pre class="r"><code>  p=ggplot() + geom_bar(data=bar_name_follow,aes(x=new_study_id, y = follow_up),stat = &quot;identity&quot;,fill=&quot;#BEBEBE&quot;)+theme_minimal()+scale_y_continuous(breaks=c(0,10,20,30,40,50), labels = c(0,10,20,30,40,50)+55)+ 
+    coord_flip() +
+    geom_point(data=fina_value,aes(x =new_id, y = time, group=new_id,fill=AB42AB40,colour = AB42AB40),shape = 18, size = 1)+labs(title=&quot;AB42AB40 change with follow_up time in subjects&quot;,x=&quot;study id&quot;,y=&quot;Age&quot;)
+  
+  
+ p_base=p+scale_fill_gradientn(colours=c(&quot;lightgreen&quot;,&quot;yellow&quot;,&quot;red&quot;, &quot;blue&quot;,
+                                 &quot;darkblue&quot;,
+                                 &quot;black&quot;),
+                       values=rescale(c(0.04,0.06,0.08, 0.1, 0.12)),
+                       guide=&quot;colorbar&quot;,breaks= c(0.04,0.06,0.08, 0.1, 0.12),
+                       labels = c(&quot;0.04&quot;,&quot;0.06&quot;,&quot;0.08&quot;,&quot;0.1&quot;,&quot;0.12&quot;))+
+  scale_color_gradientn(colours=c(&quot;lightgreen&quot;,&quot;yellow&quot;,&quot;red&quot;, &quot;blue&quot;,
+                                 &quot;darkblue&quot;,
+                                 &quot;black&quot;),
+                       values=rescale(c(0.04,0.06,0.08, 0.1, 0.12)),
+                       guide=&quot;colorbar&quot;,
+                       breaks= c(0.04,0.06,0.08, 0.1, 0.12),
+                       labels = c(&quot;0.04&quot;,&quot;0.06&quot;,&quot;0.08&quot;,&quot;0.1&quot;,&quot;0.12&quot;))</code></pre>
+<pre class="r"><code>bar_name_follow=bar_name_follow %&gt;% mutate(event=factor(event))
+p_base+geom_point(data=bar_name_follow,aes(x=new_study_id, y = follow_up,shape=event),size=0.8,stroke = 0.2)+scale_shape_manual(values = c(3,0,1))</code></pre>
+<p><img src="sibeiplots_files/figure-html/unnamed-chunk-3-1.png" width="672" style="display: block; margin: auto;" /></p>
+</div>
+<div id="dynamic-world-map" class="section level1">
+<h1>Dynamic World map</h1>
+<pre class="r"><code># plot
+world_plot &lt;- 
+  ggplot(data = wmap_df) +
+  geom_polygon(aes(x = long, y = lat, group = group, fill = rate, frame = year),color = &quot;gray90&quot;) +
+  viridis::scale_fill_viridis(name = &quot;Suicide rate&quot;, begin = 0.3, end = 1,limits = c(vmin,vmax), na.value = &quot;gray99&quot;) +
+  theme_void() +
+  guides(fill = guide_colorbar(title.position = &quot;top&quot;)) +
+        labs(title = &quot;Suicide rate: &quot;) +
+        theme(plot.title = element_text(hjust = 0.5, vjust = 0.05, size=25)) +
+        theme(plot.caption = element_text(hjust = 0, color = &quot;gray40&quot;, size=15)) +
+        coord_cartesian(xlim = c(-11807982, 14807978)) +
+        theme( legend.position = c(.5, .08), 
+               legend.direction = &quot;horizontal&quot;, 
+               legend.title.align = 0,
+               legend.key.size = unit(1.3, &quot;cm&quot;),
+               legend.title = element_text(size = 17), 
+               legend.text = element_text(size = 13) )
+
+# 
+#gg_animate(world_plot, title_frame =T, 
+        #     ani.width = 1600, ani.height = 820, dpi = 800, interval = .4)      </code></pre>
+<p><img src="world_map.gif" /></p>
+</div>
 
 
 
+</div>
+</div>
 
 </div>
 
@@ -375,7 +510,38 @@ $(document).ready(function () {
 </script>
 
 <!-- code folding -->
+<script>
+$(document).ready(function () {
+  window.initializeCodeFolding("hide" === "show");
+});
+</script>
 
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

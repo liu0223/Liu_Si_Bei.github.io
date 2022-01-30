@@ -7,10 +7,6 @@ navbar:
       href: resume1.html
     - text: "Class Projects"
       href: project.html
-    - icon: fa-envelope fa-lg
-      href: mailto:<sl4660@cumc.columbia.edu>
-    - icon: fa-github fa-lg
-      href: https://github.com/Sibeiliu
     - text: "Visualization"
       menu:
       - text: "Some plots"
@@ -19,6 +15,10 @@ navbar:
         href: dashboard.html
       - text: "Shiny"
         href: resume1.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<sxl4188@miami.edu>
+    - icon: fa-github fa-lg
+      href: https://github.com/Sibeiliu
 output:
   html_document:
     theme: cerulean
