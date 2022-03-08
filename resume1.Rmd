@@ -115,7 +115,7 @@ Supervisor: Dr.Lina Jin, Dr.Yan Yao\ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 
 
 The Class projects are team-worked assignments with instructions in several classes in Columbia, which includs 1) applying algorithms in real problems and performing them in R without using existing packages. 2) builting a github-based website 3) applying statistical methods on real data and finished the report.
 
-The detailed information can be found [here](project.html)
+The detailed information can be found 
 
 # Honors & Awards
 
