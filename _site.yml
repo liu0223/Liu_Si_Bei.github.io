@@ -6,7 +6,7 @@ navbar:
     - text: "Resume"
       href: resume1.html
     - text: "Class Projects"
-      href: project.html
+      href: project_to_delete.html
     - text: "Visualization"
       menu:
       - text: "Some plots"
@@ -14,7 +14,7 @@ navbar:
       - text: "Dashboard"
         href: dashboard.html
       - text: "Shiny"
-        href: https://sibeiliu.shinyapps.io/
+        href: https://sibeiliu.shinyapps.io/(to delete)
     - icon: fa-github fa-lg
       href: https://github.com/Sibeiliu
     - icon: fa-envelope fa-lg
